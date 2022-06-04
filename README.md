@@ -7,13 +7,20 @@ Previuosly, we made a Weather Analysis in the province of O'ahu, Hawaii,  with t
 # Results:
 We started from the database of temperatures hawaaii.sqlite and realized queries to find the June and December temperatures, we stored in pandas DataFrame and display their stats. Later I compared with the historical temperature histogram from the previuos analysis.
 
-## Temperature Stats
+
+
+## Temperature  Queries and DF Stats
 
 **Historical June** 
+
+<img width="926" alt="June Query" src="https://user-images.githubusercontent.com/102195803/172018735-6ef7dd27-0687-43a9-90d9-85e7f0eef87f.png">
 
 <img width="343" alt="June_Temp_Stats" src="https://user-images.githubusercontent.com/102195803/171972480-62ff4c03-9bc1-443d-8401-812fdb87c717.png">
 
 **Historical December**
+
+<img width="969" alt="December Query" src="https://user-images.githubusercontent.com/102195803/172018749-a6c643cd-b50a-42e5-bed3-0665e35b0c1e.png">
+
 
 <img width="343" alt="December_Temp_Stats" src="https://user-images.githubusercontent.com/102195803/171972485-b9a44625-07c2-4653-b802-9e509abdb466.png">
 
