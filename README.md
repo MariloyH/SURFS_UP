@@ -1,11 +1,6 @@
 # SURFS_UP
 BootCamp Data Analysis Week9: SQL &amp; Flask
-# SURFS_UP
-BootCamp Data Analysis Week9: SQL &amp; Flask
-Deliverable 3 Instructions
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
 
-The analysis should contain the following:
 # Overview
 Previuosly, we made a Weather Analysis in the province of O'ahu, Hawaii with the purpose of showing projections to future prospects, willing to invest in a small ice cream business and surf equipment rental. Now they have asked us to repeat the projections specifically of the temperature history for the months of June and December. Again we will take the data stored in a SQL database to be able to show it to future business partners.
 
