@@ -28,5 +28,5 @@ From this stats, we can observe that:
   3. The minimun temperature in December is 56 °F, maybe to cold for an ice cream!
    
 # Summary
-From the data collected, we can observe that both June and December are excellent months to visit O'ahu, taking advantage of the holidays! It should be considered that in December, temperatures decreases to 56° F, perhaps too cold to eat ice cream! but maybe the weather its suitable for surfing.  I propose two additional queries that could give us more information about how convenient are these months: one that shows us the statistics of rainfall, and another that shows us the average number of rainy days in June and December.
+From the data collected, we can observe that both June and December are excellent months to visit O'ahu, taking advantage of the holidays! It should be considered that in December, temperatures decreases to 56° F, perhaps too cold to eat ice cream, but maybe the weather its suitable for surfing! I propose two additional queries that could give us more information about how convenient are these months: one that shows us the statistics of precipitation for each month, and taking precipitations filtering only by the most active  station in order to have more exact data.
 
