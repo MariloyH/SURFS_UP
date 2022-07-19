@@ -1,5 +1,5 @@
-# SURFS_UP
-BootCamp Data Analysis Week9: SQL &amp; Flask
+# SURFS_UP Data Analysis with SQL & Flask
+BootCamp Data Analysis Week9: 
 
 # Overview
 Previuosly, we made a Weather Analysis in the province of O'ahu, Hawaii,  with the purpose of showing projections to future prospects willing to invest in a small ice cream and surf equipment rental bussiness. We deliviered the analysis of all around one year an now, they have asked us to repeat the projections specifically of the temperature history for the months of June and December. Again we will take the data stored in a SQL database to be able to show it to future business partners.
